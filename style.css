@@ -1,6 +1,6 @@
 .tarefa{
 width: 180px ;
-height: 200px;
+height: 180px;
 margin: 3px;
 border: 0 0 20px 0;
 background-color: rgb(164, 211, 195);
@@ -16,5 +16,6 @@ linha lateral{
 }
 
 .tarefa.concluido{
+    background-color: aqua;
 
 }
